@@ -1,0 +1,20 @@
+# Output produced by the script
+*.log
+*.tmp
+*.zip
+weekly_report.txt
+orphan_files_report_*.txt
+login_summary_*.txt
+site_preferences_*.xml
+
+# Local, environment-specific settings and secrets
+config/settings.local.txt
+*.key
+*.pwd
+.env
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
